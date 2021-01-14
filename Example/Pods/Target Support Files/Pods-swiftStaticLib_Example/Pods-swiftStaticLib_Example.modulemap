@@ -1,0 +1,6 @@
+module Pods_swiftStaticLib_Example {
+  umbrella header "Pods-swiftStaticLib_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

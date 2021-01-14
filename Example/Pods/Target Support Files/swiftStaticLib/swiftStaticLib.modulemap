@@ -1,0 +1,6 @@
+module swiftStaticLib {
+  umbrella header "swiftStaticLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

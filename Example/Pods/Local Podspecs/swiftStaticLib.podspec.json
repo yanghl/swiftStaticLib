@@ -1,0 +1,114 @@
+{
+  "name": "swiftStaticLib",
+  "version": "0.1.0",
+  "summary": "A short description of swiftStaticLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/272789124@qq.com/swiftStaticLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "272789124@qq.com": "yanghl01@beantechs.cn"
+  },
+  "source": {
+    "git": "https://github.com/272789124@qq.com/swiftStaticLib.git",
+    "tag": "0.1.0"
+  },
+  "swift_versions": "5.0",
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "swiftStaticLib/Classes/**/{*.swift,*.h,*.m}",
+  "resource_bundles": {
+    "swiftStaticLib": [
+      "swiftStaticLib/Assets/**/{*}",
+      "swiftStaticLib/Classes/**/{*.storyboard,*.xib}"
+    ]
+  },
+  "static_framework": true,
+  "dependencies": {
+    "RxSwift": [
+
+    ],
+    "RxCocoa": [
+
+    ],
+    "SnapKit": [
+
+    ],
+    "Kingfisher": [
+
+    ],
+    "SwiftyUserDefaults": [
+
+    ],
+    "NVActivityIndicatorView": [
+
+    ],
+    "Toast-Swift": [
+
+    ],
+    "Moya": [
+
+    ],
+    "MoyaMapper": [
+
+    ],
+    "MoyaMapper/MMCache": [
+
+    ],
+    "SwiftyJSON": [
+
+    ],
+    "R.swift": [
+
+    ],
+    "KeychainAccess": [
+
+    ],
+    "HandyJSON": [
+
+    ],
+    "SwifterSwift": [
+
+    ],
+    "EmptyDataSet-Swift": [
+
+    ],
+    "CryptoSwift": [
+
+    ],
+    "SwiftyRSA": [
+
+    ],
+    "MJRefresh": [
+
+    ],
+    "IQKeyboardManagerSwift": [
+
+    ],
+    "UITableView+FDTemplateLayoutCell": [
+
+    ],
+    "SKPhotoBrowser": [
+
+    ],
+    "GPUImage": [
+
+    ],
+    "RZCarPlateNoTextField": [
+
+    ],
+    "URLNavigator": [
+
+    ],
+    "WKWebViewJavascriptBridge": [
+
+    ],
+    "YHLCore": [
+
+    ]
+  },
+  "swift_version": "5.0"
+}

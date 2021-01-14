@@ -1,0 +1,208 @@
+PODS:
+  - Alamofire (5.4.0)
+  - Cache (5.3.0)
+  - CryptoSwift (1.3.7)
+  - EmptyDataSet-Swift (5.0.0)
+  - GPUImage (0.1.7)
+  - HandyJSON (5.0.2)
+  - IQKeyboardManagerSwift (6.5.6)
+  - KeychainAccess (4.2.1)
+  - Kingfisher (5.15.7):
+    - Kingfisher/Core (= 5.15.7)
+  - Kingfisher/Core (5.15.7)
+  - MJRefresh (3.5.0)
+  - Moya (14.0.0):
+    - Moya/Core (= 14.0.0)
+  - Moya/Core (14.0.0):
+    - Alamofire (~> 5.0)
+  - MoyaMapper (3.0.1):
+    - MoyaMapper/Core (= 3.0.1)
+  - MoyaMapper/Core (3.0.1):
+    - Moya (>= 14.0.0)
+    - SwiftyJSON
+  - MoyaMapper/MMCache (3.0.1):
+    - Cache
+    - MoyaMapper/Core
+  - NVActivityIndicatorView (5.1.1):
+    - NVActivityIndicatorView/Base (= 5.1.1)
+  - NVActivityIndicatorView/Base (5.1.1)
+  - R.swift (5.3.0):
+    - R.swift.Library (~> 5.3.0)
+  - R.swift.Library (5.3.0)
+  - RxCocoa (5.1.1):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxRelay (5.1.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.1.1)
+  - RZCarPlateNoTextField (0.0.1):
+    - RZCarPlateNoTextField/KeyBoard (= 0.0.1)
+  - RZCarPlateNoTextField/KeyBoard (0.0.1)
+  - SKPhotoBrowser (6.1.0)
+  - SnapKit (5.0.1)
+  - SwifterSwift (5.2.0):
+    - SwifterSwift/AppKit (= 5.2.0)
+    - SwifterSwift/CoreAnimation (= 5.2.0)
+    - SwifterSwift/CoreGraphics (= 5.2.0)
+    - SwifterSwift/CoreLocation (= 5.2.0)
+    - SwifterSwift/Dispatch (= 5.2.0)
+    - SwifterSwift/Foundation (= 5.2.0)
+    - SwifterSwift/MapKit (= 5.2.0)
+    - SwifterSwift/SceneKit (= 5.2.0)
+    - SwifterSwift/SpriteKit (= 5.2.0)
+    - SwifterSwift/StoreKit (= 5.2.0)
+    - SwifterSwift/SwiftStdlib (= 5.2.0)
+    - SwifterSwift/UIKit (= 5.2.0)
+  - SwifterSwift/AppKit (5.2.0)
+  - SwifterSwift/CoreAnimation (5.2.0)
+  - SwifterSwift/CoreGraphics (5.2.0)
+  - SwifterSwift/CoreLocation (5.2.0)
+  - SwifterSwift/Dispatch (5.2.0)
+  - SwifterSwift/Foundation (5.2.0)
+  - SwifterSwift/MapKit (5.2.0)
+  - SwifterSwift/SceneKit (5.2.0)
+  - SwifterSwift/SpriteKit (5.2.0)
+  - SwifterSwift/StoreKit (5.2.0)
+  - SwifterSwift/SwiftStdlib (5.2.0)
+  - SwifterSwift/UIKit (5.2.0)
+  - swiftStaticLib (0.1.0):
+    - CryptoSwift
+    - EmptyDataSet-Swift
+    - GPUImage
+    - HandyJSON
+    - IQKeyboardManagerSwift
+    - KeychainAccess
+    - Kingfisher
+    - MJRefresh
+    - Moya
+    - MoyaMapper
+    - MoyaMapper/MMCache
+    - NVActivityIndicatorView
+    - R.swift
+    - RxCocoa
+    - RxSwift
+    - RZCarPlateNoTextField
+    - SKPhotoBrowser
+    - SnapKit
+    - SwifterSwift
+    - SwiftyJSON
+    - SwiftyRSA
+    - SwiftyUserDefaults
+    - Toast-Swift
+    - "UITableView+FDTemplateLayoutCell"
+    - URLNavigator
+    - WKWebViewJavascriptBridge
+    - YHLCore
+  - SwiftyJSON (5.0.0)
+  - SwiftyRSA (1.5.0):
+    - SwiftyRSA/ObjC (= 1.5.0)
+  - SwiftyRSA/ObjC (1.5.0)
+  - SwiftyUserDefaults (5.0.0)
+  - Toast-Swift (5.0.1)
+  - "UITableView+FDTemplateLayoutCell (1.6)"
+  - URLNavigator (2.3.0)
+  - WKWebViewJavascriptBridge (1.2.1)
+  - YHLCore (0.1.12):
+    - CryptoSwift
+    - EmptyDataSet-Swift
+    - HandyJSON
+    - IQKeyboardManagerSwift
+    - KeychainAccess
+    - Kingfisher
+    - MJRefresh
+    - Moya
+    - MoyaMapper
+    - MoyaMapper/MMCache
+    - NVActivityIndicatorView
+    - R.swift
+    - RxCocoa
+    - RxSwift
+    - RZCarPlateNoTextField
+    - SKPhotoBrowser
+    - SnapKit
+    - SwifterSwift
+    - SwiftyJSON
+    - SwiftyRSA
+    - SwiftyUserDefaults
+    - Toast-Swift
+    - "UITableView+FDTemplateLayoutCell"
+    - URLNavigator
+    - WKWebViewJavascriptBridge
+
+DEPENDENCIES:
+  - swiftStaticLib (from `../`)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - Cache
+    - CryptoSwift
+    - EmptyDataSet-Swift
+    - GPUImage
+    - HandyJSON
+    - IQKeyboardManagerSwift
+    - KeychainAccess
+    - Kingfisher
+    - MJRefresh
+    - Moya
+    - MoyaMapper
+    - NVActivityIndicatorView
+    - R.swift
+    - R.swift.Library
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - RZCarPlateNoTextField
+    - SKPhotoBrowser
+    - SnapKit
+    - SwifterSwift
+    - SwiftyJSON
+    - SwiftyRSA
+    - SwiftyUserDefaults
+    - Toast-Swift
+    - "UITableView+FDTemplateLayoutCell"
+    - URLNavigator
+    - WKWebViewJavascriptBridge
+  https://github.com/yanghl/seanRepo.git:
+    - YHLCore
+
+EXTERNAL SOURCES:
+  swiftStaticLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Alamofire: 3b6a534a3df22db367e4dedeeca73d1ddfcf0e2f
+  Cache: 48762993ec44e1d93483c4d4a13edd18452326f4
+  CryptoSwift: b6faad405e69964740422daf121918b5b1870f2b
+  EmptyDataSet-Swift: eb382c0c87a2d9c678077385a595cec52da38171
+  GPUImage: 733a5f0fab92df9de1c37ba9df520a833ccb406d
+  HandyJSON: 9e4e236f5d2dbefad5155a77417bbea438201c03
+  IQKeyboardManagerSwift: c7df9d2deb356c04522f5c4b7b6e4ce4d8ed94fe
+  KeychainAccess: 9b07f665298d13c3a85881bd3171f6f49b8151c1
+  Kingfisher: 6e1a13523fcb1c86924ce53affe4ac957e544d59
+  MJRefresh: 6afc955813966afb08305477dd7a0d9ad5e79a16
+  Moya: 5b45dacb75adb009f97fde91c204c1e565d31916
+  MoyaMapper: 0d4f6046601f7f4f5cc99828064057142ce8bca8
+  NVActivityIndicatorView: 1f6c5687f1171810aa27a3296814dc2d7dec3667
+  R.swift: 4170fb7161c67be3bc1a847040b79367d69c419f
+  R.swift.Library: 0fc583cb55a99e28901299cc451614cad1161962
+  RxCocoa: 32065309a38d29b5b0db858819b5bf9ef038b601
+  RxRelay: d77f7d771495f43c556cbc43eebd1bb54d01e8e9
+  RxSwift: 81470a2074fa8780320ea5fe4102807cb7118178
+  RZCarPlateNoTextField: 129f672c4971f64af9fbe08aea5dda58ddf500c9
+  SKPhotoBrowser: 343de95d89dc7913763c5dda243cc6e606e4a168
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  SwifterSwift: 334181863c416882d97b7a60c05054d9e4d799e2
+  swiftStaticLib: 53bbaf995bd0b495bf9cfc3f3057d0a021304497
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  SwiftyRSA: 6e528fb1b1a87d5111c48081083b141d6d65f1cf
+  SwiftyUserDefaults: 33fcb42bd1feb53a37d873feb62c82967db5f7f6
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+  "UITableView+FDTemplateLayoutCell": 5c949b4a5059c404b442926c0e80f81d10a2d66f
+  URLNavigator: 2593c0e2d293732ec5c44503cf54dceba1a68085
+  WKWebViewJavascriptBridge: 07ad0cab27cd61ccdb90b5deb223f6df3a03c3d7
+  YHLCore: 263b258346d7a239ab0ba0c44a934fe8cd741451
+
+PODFILE CHECKSUM: cbca417fc22c1b567d06c8909ae12a265686e076
+
+COCOAPODS: 1.10.0

@@ -1,0 +1,6 @@
+module RZCarPlateNoTextField {
+  umbrella header "RZCarPlateNoTextField-umbrella.h"
+
+  export *
+  module * { export * }
+}
